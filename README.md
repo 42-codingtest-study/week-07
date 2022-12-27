@@ -45,8 +45,8 @@ git checkout -b chanwoong // 자신의 이름
 
 ## 🤓 mandatory part
 
--   [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
--   [숨바꼭질](https://www.acmicpc.net/problem/1697)
+-   [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+-   [트럭](https://www.acmicpc.net/problem/13335)
 -   [정식당](https://www.acmicpc.net/problem/17479)
 -   [친구비](https://www.acmicpc.net/problem/16562)
 -   [뒤집기 3](https://www.acmicpc.net/problem/1464)
