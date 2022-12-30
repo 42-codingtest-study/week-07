@@ -4,7 +4,7 @@
 
 # Docs
 
-_[Python Blog](https://ejaee.github.io/2202-12-30-Python-coding_test/)_
+_[Python Blog](https://ejaee.github.io/Python-coding-test/)_
 
 ### 1. 01_2346.py
 
@@ -37,35 +37,35 @@ I studied ...
 - map()
 
 
-### 1. 01_2346.py
+### 2. 02_13335.py
 
-_[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)_
+_[트럭](https://www.acmicpc.net/problem/13335)_
 
 **Approach**
 
-- Input value && save Circular Data Structure
-
-- Stored data have to change the order freely
+- Input value && save an ordered list
     
-    : `depue`
+    : `list`
 
-- Stored data's initial location index must be maintained
+- A set situation and conditions
 
-    : `enumerate()`
-
-- Only the contents should be printed out
-
-    : `' '.join(map())`
+    : `simulation / implamentation`
 
 I studied ...
 
-- how to casting
-- enumerate()
-- depue()
-- init list
-- split()
-- join()
-- map()
+- sum()
+- how to get list value
+
+### 2. 02_13335.py
+
+_[]()_
+
+**Approach**
+
+I studied ...
+
+
+
 
 ## 🤓 mandatory part
 
