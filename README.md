@@ -80,13 +80,21 @@ I studied ...
 
 ## 4. 04_16562.py
 
-_[]()_
+_[친구비](https://www.acmicpc.net/problem/16562)_
 
 **Approach**
 
+- Input consecutive integer ...
+
+    : `list`
+
+ - Check connectivity between nodes
+
+    : `union - find Algorithms`
+
 I studied ...
 
-
+- union - find Algorithms
 
 ## 🤓 mandatory part
 
