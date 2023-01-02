@@ -6,7 +6,7 @@
 
 _[Python Blog](https://ejaee.github.io/Python-coding-test/)_
 
-## 1. 01_2346.py
+## 🧑🏼‍💻 1. 01_2346.py
 
 _[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)_
 
@@ -36,7 +36,9 @@ I studied ...
 - join()
 - map()
 
-## 2. 02_13335.py
+-----
+
+## 🧑🏼‍💻 2. 02_13335.py
 
 _[트럭](https://www.acmicpc.net/problem/13335)_
 
@@ -55,7 +57,9 @@ I studied ...
 - sum()
 - how to get list value
 
-## 3. 03_17479.py
+-----
+
+## 🧑🏼‍💻 3. 03_17479.py
 
 _[정식당](https://www.acmicpc.net/problem/17479)_
 
@@ -78,7 +82,9 @@ I studied ...
 - rstrip()
 - `&` != `and`
 
-## 4. 04_16562.py
+-----
+
+## 🧑🏼‍💻 4. 04_16562.py
 
 _[친구비](https://www.acmicpc.net/problem/16562)_
 
@@ -96,15 +102,23 @@ I studied ...
 
 - union - find Algorithms
 
-## 🤓 mandatory part
+-----
 
--   [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
--   [트럭](https://www.acmicpc.net/problem/13335)
--   [정식당](https://www.acmicpc.net/problem/17479)
--   [친구비](https://www.acmicpc.net/problem/16562)
--   [뒤집기 3](https://www.acmicpc.net/problem/1464)
+## 🧑🏼‍💻 5. 05_1464.py
 
-이번주는 가장 기초적인 문제들만 뽑았습니다. 그래서 DFS & BFS는 다음주까지 할 예정입니다.
+_[뒤집기 3](https://www.acmicpc.net/problem/1464)_
+
+**Approach**
+
+- Input string ...
+
+    : `string`
+
+I studied ...
+
+- string[:]
+
+-----
 
 ## 🧐 bonus part
 
