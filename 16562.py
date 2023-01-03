@@ -14,7 +14,7 @@ for _ in range(M) :
     friends[a].append(b)
     friends[b].append(a)
 
-total = 작
+total = 0
 visited = [0 for _ in range(N + 1)]
 
 def dfs(friend) :	# (1, 10)
